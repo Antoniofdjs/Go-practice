@@ -17,7 +17,7 @@ Base repo for practices and projects in Go
 
 <div align="center">
 
-<h2> Cloud Files Structure</h2>
+<h2> CONTENT</h2>
 
 | Folders                                        | Description                                                                        |
 | -------------------------------------------------- | --------------------------------------------------------------------------------- | 
