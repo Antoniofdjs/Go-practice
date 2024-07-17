@@ -21,8 +21,8 @@ Base repo for practices and projects in Go
 
 | Folders                                        | Description                                                                        |
 | -------------------------------------------------- | --------------------------------------------------------------------------------- | 
-| _Practice_                      | Basic intro practice to start getting to know GO                     |
-| _placeholder_ | place... holder... |
+| _intro_GO_practice_                      | Basic intro practice to start getting to know GO                     |
+| _data_analysis_practice_ | Practice with slices and Scan() Text() for user inputs. More comfortable with GO |
 
 
 </div>
